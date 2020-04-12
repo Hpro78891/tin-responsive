@@ -186,7 +186,7 @@ background-color:#ef8172;
  } */
 
 /* Media Query for Mobile Devices */ 
-        @media (max-width: 980px) { 
+        @media (max-width: 580px) { 
   
            
             .coloured-section{
