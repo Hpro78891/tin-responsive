@@ -149,7 +149,12 @@ background-color:#ef8172;
  .pricing-column {
      padding: 3% 2%;
  }
-
+ .class-header{
+      padding:5% 3% 5% 0;
+   color:#fff;
+     background-color: #ff4c68;
+  
+}
  .price-text {
       font-weight: bold;
     font-size: 3rem;
